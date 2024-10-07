@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Creating bugs since 2016<br>📚 Currently learning C++ and Unreal Engine<br>🎯 My goals are to develop and publish my dream game<br>🎲 Hobbies: Gaming, Digital Art, 3D Modeling and Game Development</p>
+<p align="left">👨🏻‍💻 Creating bugs since 2016<br>📚 Currently learning Pixi.js<br>🎯 My goals are to develop and publish my dream game<br>🎲 Hobbies: Gaming, Digital Art, 3D Modeling and Game Development</p>
 
 ###
 
